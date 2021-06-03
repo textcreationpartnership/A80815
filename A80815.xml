@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of tender counsel &amp; advice to all that have believed the truth every where, to exhort them to faithfulness thereunto ... / Written by one that travels for Zyon's prosperity, Steven Crisp.</title>
+            <author>Crisp, Stephen, 1628-1692.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80815</idno><idno type="EEBO-CITATION">45789258</idno>
+  <idno type="VID">172568</idno>
+  <idno type="EEBO-PROQUEST">2240872071</idno>
+  
+            <idno type="STC">Wing C6928A</idno>
+            <idno type="STC">ESTC R171599</idno>
+            <idno type="OCLC">45789258</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172568)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of tender counsel &amp; advice to all that have believed the truth every where, to exhort them to faithfulness thereunto ... / Written by one that travels for Zyon's prosperity, Steven Crisp.</title>
+                  <author>Crisp, Stephen, 1628-1692.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+                  <note>1. In taking heed of settling in a formality, without power. -- 2. To take heed the spirit of this world doth not drink up their spirits. -- 3. To keep their word, and let their yea always be yea. -- 4. Not to trust too much to education, &amp;c -- 5. To love one another.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172568:1"/>
+            <p>AN EPISTLE Of Tender <hi>Counsel &amp; Advice</hi> To all that have believed the Truth every where, to exhort them to Faithfulness thereunto.</p>
+            <p>
+               <list>
+                  <item>1. In taking heed of settling in a formality, without Power.</item>
+                  <item>2. To take heed the Spirit of this World doth not drink up their Spirits.</item>
+                  <item>3. To keep their Word, and let their <hi>Yea</hi> be always <hi>Yea.</hi>
+                  </item>
+                  <item>4. Not to trust too much to Education, <hi>&amp;c.</hi>
+                  </item>
+                  <item>5. To love one another.</item>
+               </list>
+            </p>
+            <p>Written by one that travels for <hi>Zyons</hi> Pro<g ref="char:EOLhyphen"/>sperity, <hi>Steven Crisp.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Benjamin Clark</hi> Bookseller in <hi>George yard, Lumbard-street,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172568:2"/>
+            <pb n="1" facs="tcp:172568:2"/>
+            <head>An Epistle of tender Coun<g ref="char:EOLhyphen"/>sel and Advice, to all that have believed the Truth every where, to exhort them to faithfulness there<g ref="char:EOLhyphen"/>unto.</head>
+            <opener>
+               <salute>Dearly beloved Friends, Brethren and Sisters,</salute>
+            </opener>
+            <p>THe Salutation of my dear Love, in the flowings forth of Life in the Lord Jesus Christ, our only head, reacheth unto you all, in the spi<g ref="char:EOLhyphen"/>ritual way of Communication, which you are made Partakers of in the holy Spirit in the reachings forth of this Love and Life which we have received from the Father of Life, I am drawn forth to visit you all with an Epi<g ref="char:EOLhyphen"/>stle of tender Advice and Counsel; and espe<g ref="char:EOLhyphen"/>cially you, my dear Friends, among whom I have travelled in this and other Nations. Oh the remembrance of the Glory and Power of God that hath appeared amongst us in days past, doth much affect my Soul at this time, knowing the Lord is the same to them that do hold fast the things they have heard and learned from the beginning; And my Spirit
+<pb n="2" facs="tcp:172568:3"/>is exercised amongst you, caring and praying for your stability and continuance in the Truth, although my outward man is so far decayed, that I cannot travail so much as I used to do, (insomuch that I know many of you among whom I have travailed in the Gospel of our Lord Jesus, will see my face no more,) yet my travail in Spirit is not lessened, nor my Love to you the Lords people; but my Cryes are Day and Night to the Lord that ye may be preserved blameless unto the day of his Coming, and that ye may be Armed with Power, and Furnished with Wisdom, and may be prepared with every Good Gift of the Spirit, to stand against the Wiles and Subtile Workings of the Devil your Adversary, who is upon his watch, which way he may De<g ref="char:EOLhyphen"/>stroy you, and Spoil you of the Lot of your Inheritance, prepared for you in Christ Jesus our Lord: And for this purpose doth he set all his Subtilty on work, and doth Inspire many whom he hath already Caught in his Snares, and sets them as Snares to Catch more of you, that by their Example, ye that do yet stand, might also fall from your Stedfastness, and be a prey unto him.</p>
+            <p>Therefore my Dear Friends, gird up the Loins of your Minds, and put on the whole Armour of Light, then you will see round about you, and which way soever the Ene<g ref="char:EOLhyphen"/>my comes to assault you; you will be pre<g ref="char:EOLhyphen"/>pared to resist him, for your sufficiency is in
+<pb n="3" facs="tcp:172568:3"/>the Light, and in the Truth, which the Devil is out of; and if your Eye be kept single to Truth in your Inward parts, it is not all the Deceit of the Devil, and all his Instruments, can beguile you; but a certain sense will be given you of his mysterious workings.</p>
+            <p>And my Dear Friends, I would not have you forget that there be many ways to weaken and to darken you, which must all be watched against; therefore walk Circum<g ref="char:EOLhyphen"/>spectly, keeping your Eye in your Head, wait<g ref="char:EOLhyphen"/>ing to feel your strength renewed daily: For be assured your Tryals and Temptations will be renewed, and if you be destitute of the Heavenly daily bread, there will be a daily weakening, which will appear by your being overcome by such things, as once you had a power to stand against, which is a great grief to behold in many.</p>
+            <p>And now I come to warn you of a few things that have for some time lain upon me, to send among you, which I do in Faithfulness re<g ref="char:EOLhyphen"/>commend to the pure witness of God in all Consciences, not as if I Judged any; but this I must tell you, there is one that Judgeth, and will give an Answer in every one that listens to him, by which he may know how far any of these things have prevailed upon them, and he that Judgeth, will also by Judg<g ref="char:EOLhyphen"/>ment deliver them that are Caught in Satans Snares, if they do hearken, and submit to his Leadings.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:172568:4"/> 1st. Take heed my Dear Friends, of hold<g ref="char:EOLhyphen"/>ing the Truth in a bare Formality, satisfying your selves that you have for a long time own<g ref="char:EOLhyphen"/>ed the Way of Truth, and the Assemblies of the Lords people, and appeared as they have done in all Outward things, and have hereby obtained the Repute to be one of them; and under these Considerations sit down at ease, as to the Inward man, unacquainted with the Inward Travails, either for thy self or others; unconcerned whether the Noble Plant grows, either in thy self, or in others. Oh my Friends, this is a dangerous State, yea more danger<g ref="char:EOLhyphen"/>ous then my Tongue or Pen can declare, though so far as to clear my self, and to warn such, God will give me utterance: There<g ref="char:EOLhyphen"/>fore consider how thy poor Soul is beguiled in this Condition; for in the first place thou art deprived of that daily Enjoyment which others do Enjoy, in waiting upon the Lord, they feel his refreshing presence, which either fills them with Joy and Comfort, or else opens their Understandings in the Light of a cer<g ref="char:EOLhyphen"/>tain knowledge of, and Testimony against such things, as yet stands in the way, and hinder the Joy of his Salvation from them: But thou that fitest in a dry Formality, without an In<g ref="char:EOLhyphen"/>ward Travail upon thy Spirit, thou knowst neither of these things, but goest on in the Dark, not knowing whither thou goest, and so in the length of time, they being such a Stranger to the powerful working of Truth in
+<pb n="5" facs="tcp:172568:4"/>thy self, it grows to a question with thee whether others do witness any such power<g ref="char:EOLhyphen"/>ful workings, yea or nay; for every thing that is not Experimental, is lyable to Question; as he that never saw, knows not what seeing is, and he that never smelt any thing, he knows not what smelling is; so he that through long continuance in this formal manner of go<g ref="char:EOLhyphen"/>ing to Meetings, continues still unacquainted with the power, will at last be easily made to question whether there be such a power or no, and in this state the dark power will work insensibly, and prevail upon thy Spirit, and fit thee for his own purpose, and will Minister a secret liberty into thy mind, and a loosness, even as to the form it self by degrees, and so will prepare thee against a time of some sharp smart tryal, that will come to try thee, either in having something, or parting with some<g ref="char:EOLhyphen"/>thing, which may be had or parted with, if thou wilt turn thy back on truth; and when this time of tryal comes upon thee, then the strength and advantage that the enemy hath gotten upon thee in the time of thy Lukewarm loose Profession, is made manifest; then thou art in great straits for a season: If the temp<g ref="char:EOLhyphen"/>tation be in having a Wife or Husband, or a Portion, or Legacy, or gaining a Suit at Law, or recovering a Debt, or such like things, and the things cannot be had without letting the testimony of thy Profession fall, by Swear<g ref="char:EOLhyphen"/>ing, or going to a Priest, or some other matter
+<pb n="6" facs="tcp:172568:5"/>utterly contrary to thy Profession: Oh what struglings is there in thy Soul to obtain the thing thou desirest, and yet would fain be reckoned a Friend still, and art loath to be publickly numbered among Backsliders and Apostates: And so if the Temptation and Tryal comes on the other side, in parting with any thing (which thou lovest) for thy Pro<g ref="char:EOLhyphen"/>fession sake, as thy Wife and Children, thy Liberty, thy Money, thy Cattle, thy House and Land, or what else may be dear to thee: Oh howdoth self work to save its self, and loath it is to part with the Name and Reputation of a Friend of Truth, and as loath to part with any of these things for the Truths sake, not feeling the hundred-fold in this time, which Christ spoke of, nor the life everlasting nei<g ref="char:EOLhyphen"/>ther. Here is a day of great Difficulty and Distress, which is come, and is coming upon many of such Careless Professors, in which they do stand in need of the help of the Divne power of God, to support them, and to give them Victory; but alas they are Estranged from it, and now the Form will not support in the hour of this great Tryal, but the Flesh and Bloods Consultings are grown strong for want of living in the Daily Cross; and that Nature cries aloud in the ears of thy Soul, which thou hast Indulged and Suffered to live; and if thou considerest the Truth, and weighest the Testimony of that against thy own will and desire, then thou easily seest which is of most
+<pb n="7" facs="tcp:172568:5"/>weight with thee; for a false weight, and false Ballance, and false Judgment, is got up in the time of thy Careless Profession, and then the Old Deceiver comes in, and tells thee, thou seest no evil in it, or at least not so much as on the contrary side; so that of two evils, it's wisdom to chuse the least; and such like rea<g ref="char:EOLhyphen"/>sonings, fills thy Mind, till at last thy will be<g ref="char:EOLhyphen"/>ing strong, and thy understanding darkened; thou takest up a resolution to hazard thy Soul, and to part with thy dry withered Testimony thou hast for a long time born without life, and embrace the Price that's bidden for it, as <hi>Esau</hi> and <hi>Judas</hi> did, and so sellest the Truth which thou once followedst, and delivereth it (as much as in thee lyeth) into the hands of its enemy, to be mocked, and reproached, and trampled upon; and this is the fruit and effect of a long Carelesness and Remisness, which thou thoughtst once would never have come to this: And when the Servants of the Lord have declared what sad effects such neg<g ref="char:EOLhyphen"/>ligence would produce in time, thou hast been apt to bless thy self, and to reckon thou would<g ref="char:EOLhyphen"/>est never run so far out, as publickly to bring Reproach upon the Way thou Professedst; but alas thou little knewest that thy Souls enemy was all that while but preparing thee against the day of thy greatest Tryal, and as it were unarming thee against the day of Battle, that he might the more easily overcome thee: But now thou seest thou art fallen, when others be<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:172568:6"/>tryed with the same Temptations, standst and abidest in their Testimony; and so mightest thou also, if thou hadst waited upon God as thou oughtest, in diligence for the renewing of thy strength: But now alas miserable Man and Woman, what wilt thou do? thy Cloak is now pull'd off, thy Fig-leaf-Profession is rent, and thou hast now but two ways; and well if there be so many, to wit, to turn thy mind from the object of thy delight, to the Truth which thou hast sold for it, and by Repen<g ref="char:EOLhyphen"/>tance and through Judgment, to wait to see if God will be merciful to thee or no, and to spend thy days in Sorrow and Mourning, and to give up now at last to that work thou so much before slightedst; or else to take the o<g ref="char:EOLhyphen"/>ther way, and that is, to go on in thy Re<g ref="char:EOLhyphen"/>bellion against the Light of Christ Jesus, and add sin to sin, until the Custom of sin may take away the sense of Judgment, and so thou mayst grow to a Fleshly ease, and give over caring for thy future well-being: But like the Beast that perisheth, set thy heart upon the things of this life for a little season, and then cometh the end; and thou who wert once cal<g ref="char:EOLhyphen"/>led of God to an Inheritance in his Light, must now have thy Portion in the utter dark<g ref="char:EOLhyphen"/>ness; and thou that wert once called to have been a Vessel of Honour, art now become a Vessel of Wrath fitted for Destruction: Oh my Soul laments the condition of such, and glad would I be if any of these Careless Pro<g ref="char:EOLhyphen"/>fessors
+<pb n="9" facs="tcp:172568:6"/>of Truth might be awakened before it be too late: But however, I am thus far clear of their blood, and if they perish, the fault will be their own.</p>
+            <p n="2">2dly. A second thing that lies upon me to warn you all of, my Dear Friends, is to watch against the Spirit of this world, least it drink up your Spirits too much in an Eager and greedy pursuit after the things of this World, which happens to several in divers manners, to their great hurt and dammage; and the snare lies deep and hidden, under a subtile co<g ref="char:EOLhyphen"/>vering. For whereas it is the duty of every man to take care for his Family, and to be diligent in the Calling God hath set him in, and to improve such opportunities as God pleaseth to put into his hand: Here the subtile Enemy works to make the care immoderate, to turn the Diligence to Slavery, and the im<g ref="char:EOLhyphen"/>proving opportunities which God gives him, to a finding and searching out of opportu<g ref="char:EOLhyphen"/>nities, sometimes by Indirect Causes, and sometimes to the prejudice of thy Neigh<g ref="char:EOLhyphen"/>bour, and all to try, to satisfie a greedy desire after the heaping up of Treasure in this World, and through the earnestness of the affection that kindles daily more and more, after these things a man comes in time to have the Increase or Decrease of these things to be the objects of his Joy or Sorrow, and then he is mi<g ref="char:EOLhyphen"/>serable, for Joy or Sorrow are the highest facul<g ref="char:EOLhyphen"/>ties of the mind, and ought to be pitched up<g ref="char:EOLhyphen"/>on
+<pb n="10" facs="tcp:172568:7"/>the highest Objects, and not upon transitory things under the Sun, by which neither Love nor Hatred can be known: But alas how are many cast down at Losses, and lifted up as Profits and Gains: Oh my Friends, take hee of this fickle and uncertain State, for while some have too much set their minds after the things of this world, they have erred from the Faith, and have placed their Trust in un<g ref="char:EOLhyphen"/>certain Riches; and when they have taken their Wings and fled away, their hope hath gone with them: Therefore I beseech you Dear Friends, have a care of suffering your Spirits to be sharpened and set on Edge about these outward things; and take heed of In<g ref="char:EOLhyphen"/>larging your Trades and Traffiques beyon<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Ability, and beyond your Capacity, so both these evils have been the Ruine of some for every one that hath Ability, hath not Ca<g ref="char:EOLhyphen"/>pacity for great things, and every one tha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath Capacity, hath not Ability, and when either of these are wanting, such ought to be content with such low and mean things a they are Capable to Manage, and able to Reach, and not to bear themselves too much upon the one, and then seek by Indirect means to make the other answerable, for no man knows the Issue before-hand; and there<g ref="char:EOLhyphen"/>fore even in these things every one ought to wait to know the guidance of the Lord, and to be subject unto his will, though in a Cross to their own; as the Apostle said cor<g ref="char:EOLhyphen"/>cerning
+<pb n="11" facs="tcp:172568:7"/>them that said, <hi>We will go to yonder City, and we will Buy and Sell, and get Gain:</hi> Which were all lawful things in themselves; yet for this, saith he, you ought to have said, <hi>If the Lord will:</hi> So he that saith, I will In<g ref="char:EOLhyphen"/>crease my Trade, and Inlarge my Adventures, that my Gain may thereby be Inlarged; even in this he ought to say, <hi>If the Lord will.</hi>
+            </p>
+            <p>Oh Friends, wait to feel the governing hand of God in these things, to govern you in your Affairs, that so he may as really be acknow<g ref="char:EOLhyphen"/>ledged by you the Lord of Earth, as well as Heaven, the Ruler of your Trading and Deal<g ref="char:EOLhyphen"/>ings, as well as of your Religion and Profession.</p>
+            <p n="3">3dly. And Friends, I desire you remember that the Crown of our Profession, was that our <hi>Yea was Yea,</hi> and our <hi>Nay was Nay,</hi> and so it is still with all the Faithful Followers of the Truth; though too many have let in a false Liberty since their first Convincement, and have not that Respect to their words as they ought to have to the great dishonour of God, and Grief of the Righteous, and wounding their own Souls. Oh my Friends, let this be amended, by every one that hath been over<g ref="char:EOLhyphen"/>taken in it, as you tender the honour of God, your own Prosperity, and the good of others: For many Stumblings have hereby been laid in the way of some who have been near to Truth, and they have fallen and been lost; but they that laid the Stumblings, will not be found clear of their Blood in the day of the Lords Inquisition.</p>
+            <pb n="12" facs="tcp:172568:8"/>
+            <p> Therefore let all take heed for time to come, to be true to their word; for all who do profess the Truth, do in a kind Pawn the Truth, as much as in them lies, or at leas<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their part in the Truth, every time they o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pass their Promise, or Sign a Bill or Obligati<g ref="char:EOLhyphen"/>on for any Payment to be made at such a time as is mentioned in the said Promise, Bi<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or Obligation and such a one hath now no<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power to dispense with the payment at the time appointed, without the Consent of the party to whom he is so Engaged; and if he doth of himself delay, or deny payment, he forfeits what he Pawned, namely his Truth: Now which of you having Pawned your Coat or Cloak for the half of the Value to Redeemi<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> again such a day, or to loose it, would not y<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be very careful to observe your day? But oh! o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how much greater value is this Pledge, whe<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truth lies at Stake? and I am sure they that truly love it, will have more care of it, the<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a Cloak, Coat, or any earthly thing.</p>
+            <p>Therefore the ways to prevent all such mis<g ref="char:EOLhyphen"/>carriages, is to be taken notice of, and that in the first place, that none run themselves into necessities by Indirect courses, as by an over-charging themselves in Trading, nor in over-Buying more then they are able to Com<g ref="char:EOLhyphen"/>pass, nor by Suretiship, which makes a sup<g ref="char:EOLhyphen"/>posed Debt, though uncertain, and therefore the more dangerous, because it may come up<g ref="char:EOLhyphen"/>on you at unawares, before you are prepared
+<pb n="13" facs="tcp:172568:8"/>for it. These things ought in wisdom to be prevented afore-hand.</p>
+            <p>Also every one that upon a just occasion doth borrow, and doth pass his word upon the Repu<g ref="char:EOLhyphen"/>tation of Truth, by Promise, Bill or Obligation, ought at the same time to have something in his eye of most Certainty, by which he shall be inabled to perform his Word, and not to trust to Returns of Adventures, Increase of Crops, Gains of Trade, or others keeping their Word with him, or any such like uncer<g ref="char:EOLhyphen"/>tainties; for if any do so, they may be in this snare of being Unfaithful to their promise be<g ref="char:EOLhyphen"/>fore they are aware. But although there is a kind of uncertainty in all these things below, yet where a mans Truth and Profession lies thus at Pawn, and must be fetcht home or forfeited: There ought, as I said before, to be something most certain in such an ones Eye, by which he may save his Word; as Money that he knows to be at his Demand, or Goods in Possession, or Lands that are Free, and can be Engaged if the worst come; for you will find more Peace in Conscience, and a better Answering of Truth to make a new Engage<g ref="char:EOLhyphen"/>ment of Land or Goods, then to break an old Engagement of your Truth and Profession.</p>
+            <p>Dear Friends, my heart is very full in this matter, and much I could Write hereof, but I spare you in Love and good Will, believing a word to the Wise will be sufficient; <hi>And if a Fool be brayed in a Morter, he will not depart
+<pb n="14" facs="tcp:172568:9"/>from his Foolishness.</hi> Therefore Dear Friends be wise in all these things, that so ye may not be in Bondage and Slavery to the things of this Life, but may have a Dominion and Reign over them, according to your Calling in Christ Jesus, that every one of you may wear your Crown, and none may have cause justly against any of you, to say, such an ones Yea is Nay; for then he takes your Crown and your Pledge, which is hard to gain again. Oh Friends, I write these things unto you in True Love, and in a Holy Respect unto the Holy Name of God, that is made known among us. Therefore let not a Cavilling wis<g ref="char:EOLhyphen"/>dom rise up against the word of Exhortation to apply it wrongfully; but in love and meekness let it be received, as from one that Travails for your Prosperity, and warns you of the Snares of your Souls Enemy.</p>
+            <p n="4">4ly. And Friends, the next thing that lies upon me, is in Respect unto such as have been Brought up, and Educated amongst us, and are grown up, and do make Profession of the same Way and Truth In which they have been Educated: That all such may take heed that they rest not in a bare Educable Form of the Truth, without having regard to their In<g ref="char:EOLhyphen"/>ward Travail of the Soul, and to their growth in the Power of Godliness; for the Snares of their Souls Enemy lies deep in this matter and his working is to draw their Minds into the World, while their Bodies and their Pub<g ref="char:EOLhyphen"/>lick
+<pb n="15" facs="tcp:172568:9"/>Profession remains amongst Friends, and to keep them at Ease and Liberty from the daily Cross, and from the crucifying Power, by which they should travel to subdue that nature in themselves that is grown up in their youth, as well under this Profession, as under any other, where the Power is not min<g ref="char:EOLhyphen"/>ded diligently: And by this means many are and remain unfitted for the <hi>Testimony of Truth,</hi> wanting to be rooted and grounded in it, through an experimental Warfare in their own particulars. For, my Friends, I say unto you in the Word of the Lord, <hi>Except ye be born again, ye cannot see the Kingdom of God;</hi> and if ye cannot see that, what availeth it what you see? For all sight, vision, and opening of things will not save nor deliver your Souls in the day of Tryal that will come upon you for the trial of your Faith, and then if your Faith be such an one as stands in Words and Terms, though never so true, yet it will fail you in that day, and you will not be able to stand. Therefore, dear Friends, sink down in lowli<g ref="char:EOLhyphen"/>ness and humility, and wait to feel the Power revealed in you, which was revealed in us in the beginning, and joyn your minds to it, in a living Faith, that you may come to experi<g ref="char:EOLhyphen"/>ence its condemning Power, to judge every vain Thought and exalted Desire, and every idle Word, and evil Action; that so by the pure Judgment of Truth you may come to witness a cleansing and a subduing of that
+<pb n="16" facs="tcp:172568:10"/>nature that lusteth unto Disobedience of the righteous Law of God in your hearts, and as that nature is kept under the daily Cross, it will weaken and die daily in you, and the weaker it is made, the more you will feel of the powerful quickenings of the Word of God in your Souls, and a tender Life will spring up in you, to your great Com<g ref="char:EOLhyphen"/>fort, that will be tender of the Glory of God, and of the Honour and Reputation of your Profession; And as you joyn herewith, you will be acquainted with the Travels of the true <hi>Zion,</hi> the Mother of us all, who brings not forth but through deep Exercises; and al<g ref="char:EOLhyphen"/>though this will take you off from the Delights and Pleasures, and Loftiness of this World, yet the end will repay all your sorrow and travel, for this will bring you to know the worth of Truth, and teach you to set a value upon it, and upon every Testimony of it, beyond all transitory and fading things, when as others who have lightly come by their Profession, will lightly esteem it, and lightly let it go, again: Therefore my travel and cry is that you might be wise unto Salvation, and for that end do I send this to you that ye might be brought to try your Foun<g ref="char:EOLhyphen"/>dations, every one in your selves, before it be tryed for you, for then it will be too late to come to the true Foundation, or at least it will be through greater hardship, when the cry at midnight is heard, and the time of entrance cometh, it will be too late to buyl
+<pb n="17" facs="tcp:172568:10"/>Oyl to your Lamps, and then such as have a Lamp and no Oyl, will be shut out: There<g ref="char:EOLhyphen"/>fore prize your time, and examine your selves, what reason you have in your selves, to make Profession of the Name and Way of God, more than that you were educated there<g ref="char:EOLhyphen"/>in, and brought up to it by your Parents, Guardians, or Masters. Have you ever felt the Heavenly Vertue of it overshadowing your Souls? And if you have, do you retain and keep the savour of it still upon your Spi<g ref="char:EOLhyphen"/>rits? Do you feel your selves possest with that awe, fear and reverence of the Lord's pre<g ref="char:EOLhyphen"/>sence which the Lord's people felt in the be<g ref="char:EOLhyphen"/>ginning of their Day, and the Faithful do still feel? Is the inward enjoyment of the Life of Truth a greater joy to you than all your out<g ref="char:EOLhyphen"/>ward injoyments? If so, then you will not sell it, nor part with it, for any thing in this World; And the Testimonies which such do bear for the Truth, will not be traditional, but from a sensible convincement in themselves, so that they will be able to say, <hi>These things have we received from the Lord, and they are the Te<g ref="char:EOLhyphen"/>stimonies of God manifest to us in the Light of his Son Christ Jesus, in whom we have believed.</hi> Oh Friends, how will this drive back the Storm of Temptations that will come both inwardly and outwardly, in a time of trouble? How many is there who for want of this ex<g ref="char:EOLhyphen"/>perimental assurance in themselves, have been brought to great questionings and doubtings,
+<pb n="18" facs="tcp:172568:11"/>and knew not whether to go, backward or for<g ref="char:EOLhyphen"/>ward, and many have halted and staggered, and some have <hi>fallen and rise no more,</hi> to the ru<g ref="char:EOLhyphen"/>ine of themselves and others, Therefore my dear Friends trust not to the resolutions of your own Spirits, without a sense of the power, nor to a receiving the Truth by your Educati<g ref="char:EOLhyphen"/>on, but all wait to be made living and true Wit<g ref="char:EOLhyphen"/>tesses of the rising of the power in your own hearts, and the carrying on of the Work of the Power in your selves, to the regenerating you, and bringing you to that Birth that trusteth in nothing but in the Lord alone, and hath him for its support in the greatest exerci<g ref="char:EOLhyphen"/>ses, then shall ye stand and remain, and be a Generation chosen of God, to bear his Name and Testimony, and to commit to the nex<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Generation.</p>
+            <p n="5">5thly. And Friends, let the Brotherly-lov<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that was sown in your hearts, as a precious Se<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in your first convincement, continue and in<g ref="char:EOLhyphen"/>crease daily, that as ye are made partakers o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one hope of Salvation in Christ Jesus, so ye<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may continue of one mind and heart, according to the working of his Spirit in you, having a tender respect one for another, as Children of one Father, and as such as feeds at one Table: For Christ hath ordained, and doth ordain in all his Churches, That we should love one another, that we should shun all occasions of offence and grief, that we should walk orderly, and as be<g ref="char:EOLhyphen"/>comes his holy Gospel, that we may be an honou<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:172568:11"/>thereunto, and a strength and comfort to one another: This is our great Ordinance, our new Commandment, which was also from the beginning, and will always abide the same through all Generations: Therefore my Friends and Brethren, let the Fruits of sincere and bro<g ref="char:EOLhyphen"/>therly Love abound amongst you both in Word and Deed, and let none be wanting in fulfilling the <hi>Law of Charity,</hi> without which all Profession will be but <hi>like a sounding Brass, or a tinkling Cymbal.</hi>
+            </p>
+            <p>But if this Law be kept to, the Life of Reli<g ref="char:EOLhyphen"/>gion will be felt, and each one will thereby be taught their Duty and Charge concerning ano<g ref="char:EOLhyphen"/>ther, and know to comfort in Charity, to ad<g ref="char:EOLhyphen"/>monish in Charity, to reprove in Charity, and also to receive all these in Charity, and this will exclude for ever all whispering and tale-bearing, and bring every one to deal plainly and upright<g ref="char:EOLhyphen"/>ly with every one, not suffering Sin to rest upon the Soul of thy Brother, but to deal with him quickly, plainly and tenderly, even as thou thy self wouldst be dealt withal; and however this kind of dealing be taken, thou shalt not miss of thy reward, but thy peace will remain with thee: For while Friends eyes are fixed upon the Power of God, as their Guide and Leader in all these things, and their design is simply God's Glory, the clearing their own Consciences, and the good of their Brother, they will not be dis<g ref="char:EOLhyphen"/>couraged in their undertakings, for they know the power will certainly come over whatsoever
+<pb n="20" facs="tcp:172568:12"/>opposeth it, and this will keep your minds quiet and free from disturbances, when you see men, and things, and parties arise against the power, knowing that the power is an everlasting Rock. But as for those things that appear against it, they are but for a season, in which season pati<g ref="char:EOLhyphen"/>ence must be exercised, and the Counsel of Wisdom stood in, and then you will be kept from staggering, or from scattering by all the fair shews the Spirit of opposition can make.</p>
+            <p>For they that do injoy the Life and Substance, and feed daily of the Bread that comes down from Heaven; have a quick sense and discerning of things that are presented to them, and do know them that are of the Earth earthly, by their earthly Saviour, from those that are of the heavenly with their heavenly Saviour, they know what feeds the Head and the Wit, and carnal Reason, and what will nourish the im<g ref="char:EOLhyphen"/>mortal Soul, and so come to be fixed, and are not ready to feed upon unsavoury Food, nor to be easily tossed, nor to be troubled at evil Ty<g ref="char:EOLhyphen"/>dings, nor cannot be drawn after one thing or man by an affection, nor set against another man nor thing by a prejudice, but the true Bal<g ref="char:EOLhyphen"/>lance of a sound Judgment, settled in the divine knowledge, according to the measure that the Father hath bestowed, keeps such steady in their way. both in respect to their own Testimony and Conversation, and also in respect to their Dealing with others, Oh my dear Friends, in such doth the truth shine, and such are the
+<pb n="21" facs="tcp:172568:12"/>true Followers of Christ, and they are worthy to be followed, (because their way is as a shining Light) shining on towards the perfect Day. And in this sure and steady way. My Souls desire is, you and I may walk, and continue walking, unto the end of our days, in all Sobriety, Truth, Justice, Righteousness and Charity, as good Examples in our Day, and comfortable Presi<g ref="char:EOLhyphen"/>dents in our End, to them that shall remain, that so we may deliver over all the Testimonies of our Lord Jesus unto the succeeding Gencra<g ref="char:EOLhyphen"/>tions, as Pure, as Certain, and as Innocent as we receiv'd them in the beginning; and in the end of all our Labours, Travels, Trials and Exercises, may lay down our heads in that Sab<g ref="char:EOLhyphen"/>bath of Rest that remains always for the Lord's People.</p>
+            <p>This is the breathing Desire that lives in me, for all you who have believed in our Lord Jesus Christ, in whose Name and sense of his Power, and of the Life he hath reuealed in every Mem<g ref="char:EOLhyphen"/>ber of his whole Body, I salute you all, and bid you Farewel.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172568:13"/>
+            <head>Books Printed, and Sold by <hi>Benjamin Clarke.</hi>
+            </head>
+            <list>
+               <item>John Materne<hi>'s</hi> Compendium Trium Lingua<g ref="char:EOLhyphen"/>rum: or, <hi>An Essay to facilitate young Be<g ref="char:EOLhyphen"/>ginners,</hi> in Latine, Greek, <hi>and</hi> Hebrew.</item>
+               <item>G. Keith, <hi>The Rector of</hi> Arrow <hi>corrected,</hi> 8<seg rend="sup">o.</seg>
+               </item>
+               <item>G. Fox, <hi>To the Great</hi> Turk, <hi>and his King at</hi> Argiers.</item>
+               <item>— <hi>The Protestant Christian Quaker a Sufferer under Popery.</hi>
+               </item>
+               <item>— <hi>Concerning the living God of Truth, and the Worlds God, in whom is no Truth.</hi>
+               </item>
+               <item>
+                  <hi>To the King and both Houses of</hi> Parliament.</item>
+               <item>Lawson<hi>'s Treatise of the Call to the Ministry.</hi>
+               </item>
+               <item>W. Shewen, <hi>A few Words concerning the</hi> Fast <hi>which God requires.</hi>
+               </item>
+               <item>Dankes, <hi>Captives return from Captivity.</hi>
+               </item>
+               <item>
+                  <hi>The Life and Death of</hi> John Materne.</item>
+               <item>
+                  <hi>A Test and Protest against Popery, by the Christi<g ref="char:EOLhyphen"/>ans called</hi> Quakers.</item>
+               <item>
+                  <hi>The Case of Protestant Dissenters.</hi>
+               </item>
+               <item>C. Marshal<hi>'s Epistle to Friends.</hi>
+               </item>
+               <item>
+                  <hi>The Sufferings of</hi> William Dobson.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
